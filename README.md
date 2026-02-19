@@ -4,7 +4,7 @@
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](#)
 [![Ko-fi](https://img.shields.io/badge/Donate-Ko--fi-orange)](#)
 
-<img src="https://github.com/Aloc08/Pinion-test/blob/e2fe9fa84bc4c9f4ffbcc091cb6d43824051650f/logo/Pinion_logo.png" width=500>
+<img src="https://github.com/Aloc08/Pinion/blob/main/logo%2FPinion_logo.png" width=500>
 
 ## 🔸 Why use Pinion?
 
