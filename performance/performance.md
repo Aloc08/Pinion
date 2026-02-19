@@ -1,6 +1,6 @@
 ## Performance
 
-<img src="https://github.com/Aloc08/Pinion-test/blob/893b0d3dff317f0a7d9c653489dc3a5ec625b244/performance/performance.jpeg" width=500>
+<img src="https://github.com/Aloc08/Pinion/blob/main/performance%2Fperformance.jpeg" width=500>
 
 Tested on Arduino Uno with this code:
 
